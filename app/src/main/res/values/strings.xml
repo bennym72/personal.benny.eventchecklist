@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pretask Checklists</string>
+    <!-- MainActivity strings -->
+    <string name="main_activity_ok">OK</string>
+    <string name="main_activity_cancel">Cancel</string>
+    <string name="main_activity_alertTitle">New Checklist</string>
+    <string name="main_activity_textLabel">Title</string>
+</resources>
