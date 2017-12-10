@@ -1,4 +1,4 @@
-package personal.benny.pretaskchecklist;
+package personal.benny.eventchecklist;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

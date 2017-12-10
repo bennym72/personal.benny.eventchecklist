@@ -12,8 +12,6 @@ import android.widget.ListView;
 
 import java.util.ArrayList;
 
-import personal.benny.pretaskchecklist.R;
-
 public class MainActivity extends AppCompatActivity {
 
     private ArrayList<String> listItems;

@@ -1,4 +1,4 @@
-package personal.benny.pretaskchecklist;
+package personal.benny.eventchecklist;
 
 import org.junit.Test;
 

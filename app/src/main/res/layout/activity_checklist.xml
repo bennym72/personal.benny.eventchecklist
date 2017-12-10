@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="personal.benny.pretaskchecklist.personal.benny.eventchecklist.ChecklistActivity">
+    tools:context="personal.benny.eventchecklist.personal.benny.eventchecklist.ChecklistActivity">
 
     <ListView
         android:id="@+id/taskListView"

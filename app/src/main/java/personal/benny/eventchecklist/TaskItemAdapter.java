@@ -10,8 +10,6 @@ import android.widget.ArrayAdapter;
 import android.widget.CheckBox;
 import android.widget.TextView;
 
-import personal.benny.pretaskchecklist.R;
-
 /**
  * Created by benny on 2017-11-25.
  */

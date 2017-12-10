@@ -6,8 +6,6 @@ import android.widget.ListView;
 
 import java.util.ArrayList;
 
-import personal.benny.pretaskchecklist.R;
-
 public class ChecklistActivity extends AppCompatActivity {
     private ListView taskListView;
     private ArrayList<AbstractTaskItem> taskListItems;
